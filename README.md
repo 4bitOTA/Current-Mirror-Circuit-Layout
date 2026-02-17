@@ -1,2 +1,2 @@
-# Current-Mirror-Circuit-Layout-
+# Current-Mirror-Circuit-Layout
 Layout using UMC technology
